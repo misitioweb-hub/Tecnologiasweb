@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #FDD7FF;
+}
+
+header {
+  background: #333;
+  color: #ADD8E6;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #ADD8E6;
+}
+
+main {
+  padding: 2em;
+  animation: fadeIn 2s;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.animacion {
+  animation: zoomIn 1.5s ease-in-out;
+}
+
+.titulo-html5 {
+  color: orange;
+}
+
+
